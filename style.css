@@ -1,0 +1,11 @@
+header {
+    display: flex;
+    height: 80px;
+    background-color: black;
+}
+
+header div {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
